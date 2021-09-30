@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 
-export default () => {
+const test = () => {
 
     return (
         <div>
@@ -9,3 +9,4 @@ export default () => {
     )
 
 }
+export default test;
